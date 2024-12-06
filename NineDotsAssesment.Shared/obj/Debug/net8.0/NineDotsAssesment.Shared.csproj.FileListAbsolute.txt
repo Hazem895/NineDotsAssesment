@@ -1,0 +1,15 @@
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\bin\Debug\net8.0\NineDotsAssesment.Shared.deps.json
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\bin\Debug\net8.0\NineDotsAssesment.Shared.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\bin\Debug\net8.0\NineDotsAssesment.Shared.pdb
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\bin\Debug\net8.0\NineDotsAssesment.Domain.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\bin\Debug\net8.0\NineDotsAssesment.Domain.pdb
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.csproj.AssemblyReference.cache
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.AssemblyInfoInputs.cache
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.AssemblyInfo.cs
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.csproj.CoreCompileInputs.cache
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDots.DE699464.Up2Date
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\refint\NineDotsAssesment.Shared.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\NineDotsAssesment.Shared.pdb
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Shared\obj\Debug\net8.0\ref\NineDotsAssesment.Shared.dll

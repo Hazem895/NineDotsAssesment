@@ -1,0 +1,11 @@
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\bin\Debug\net8.0\NineDotsAssesment.Domain.deps.json
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\bin\Debug\net8.0\NineDotsAssesment.Domain.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\bin\Debug\net8.0\NineDotsAssesment.Domain.pdb
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\NineDotsAssesment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\NineDotsAssesment.Domain.AssemblyInfoInputs.cache
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\NineDotsAssesment.Domain.AssemblyInfo.cs
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\NineDotsAssesment.Domain.csproj.CoreCompileInputs.cache
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\NineDotsAssesment.Domain.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\refint\NineDotsAssesment.Domain.dll
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\NineDotsAssesment.Domain.pdb
+W:\Repos\NineDotsAssesment\NineDotsAssesment.Domain\obj\Debug\net8.0\ref\NineDotsAssesment.Domain.dll

@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "NineDotsAssesment.Api.Controllers.CustomerController",
+    "Method": "MigrateUser",
+    "RelativePath": "api/Customer/MigrateUser/{ic}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ic",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NineDotsAssesment.Api.Controllers.CustomerController",
+    "Method": "Register",
+    "RelativePath": "api/Customer/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "InputData",
+        "Type": "NineDotsAssesment.Shared.DTO.CustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NineDotsAssesment.Api.Controllers.CustomerController",
+    "Method": "VerifyPIN",
+    "RelativePath": "api/Customer/VerifyPIN",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "confirmPINModel",
+        "Type": "NineDotsAssesment.Shared.Models.ConfirmPINModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NineDotsAssesment.API.Controllers.OTPController",
+    "Method": "SendEmailOTP",
+    "RelativePath": "api/OTP/Email/Send/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NineDotsAssesment.API.Controllers.OTPController",
+    "Method": "VerifyEmail",
+    "RelativePath": "api/OTP/Email/Verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "verifyOTPRequest",
+        "Type": "NineDotsAssesment.Shared.Models.VerifyOTPRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NineDotsAssesment.API.Controllers.OTPController",
+    "Method": "SendMobileOTP",
+    "RelativePath": "api/OTP/Mobile/Send/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NineDotsAssesment.API.Controllers.OTPController",
+    "Method": "VerifyMobileOTP",
+    "RelativePath": "api/OTP/Mobile/verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "verifyOTPRequest",
+        "Type": "NineDotsAssesment.Shared.Models.VerifyOTPRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
